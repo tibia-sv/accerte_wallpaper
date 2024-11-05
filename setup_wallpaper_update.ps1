@@ -1,4 +1,3 @@
-$scriptContent = @"
 $sharepointUrl = 'https://raw.githubusercontent.com/tibia-sv/accerte_wallpaper/refs/heads/main/Wallpaper.jpg'
 
 $picturesPath = "$env:USERPROFILE\Pictures"
